@@ -1,0 +1,107 @@
+body {
+    background-color: #bdcef0d5;
+    font-family: Arial, sans-serif;
+}
+
+.header-top {
+    background-color: #ccccccaf;
+    padding: 8px 15px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.toolbar-area {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+    padding: 8px 15px;
+}
+
+.judul-sidebar {
+    background: #333333;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.item-surat {
+    background: white;
+    border-left: 4px solid #444;
+    border-top: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    border-radius: 3px;
+    padding: 8px 10px;
+    margin-bottom: 8px;
+}
+
+.tab-oranye {
+    background-color: #fa7508ec;
+    color: white;
+    padding: 5px 15px;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 14px;
+}
+
+.garis-oranye {
+    height: 3px;
+    background-color: #ff6600;
+    margin-bottom: 15px;
+}
+
+.btn-buat {
+    background-color: #e2e2e2;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    color: #333;
+}
+
+.card-box {
+    border: none;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.bg-hijau { background-color: #28a745; color: white; }
+.bg-biru { background-color: #17a2b8; color: white; }
+.bg-merah { background-color: #dc3545; color: white; }
+
+.footer-detail {
+    background-color: #f0f0f0;
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.txt-hijau { color: #28a745; }
+.txt-biru { color: #17a2b8; }
+.txt-merah { color: #dc3545; }
+
+.todo-head {
+    background-color: #6f42c1;
+    color: white;
+    padding: 12px;
+    border-radius: 4px 4px 0 0;
+}
+
+.todo-content {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-top: none;
+    padding: 25px;
+    text-align: center;
+    font-style: Bold;
+    color: #777;
+}
+
+.icon-img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
+
+.icon-card {
+    width: 42px;
+    height: 42px;
+}
